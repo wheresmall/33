@@ -13,8 +13,8 @@
 
 |   名称  | 更新时间  |地址  |
 |  ----  | ----  |----  |
-|  gitea仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
-|  gitea仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
-|  gitea仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
-|  gitea仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
-|  gitea仓库配置 | 2022-09-3 08:08:08 |[地址](https:/github.com/333/3/raw/branch/3) |
+|  github仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
+|  github仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
+|  github仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
+|  github仓库配置 | 2022-09-3 08:08:08 |[地址](https://github.com/333/3/raw/branch/3) |
+|  github仓库配置 | 2022-09-3 08:08:08 |[地址](https:/github.com/333/3/raw/branch/3) |
